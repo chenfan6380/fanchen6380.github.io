@@ -2,11 +2,11 @@
 
 
 profx:
-    display_name: "肖航  Hang Xiao"
-    github: xiaohang007
+    display_name: "滚子哥  Fat Dog"
+    github: dog666
     role: faculty
     image: /img/people/hang.jpg
-    bio: 助理教授  Assistant Professor
+    bio: 狗狗博士 Doctor
     webpage: "https://scholars.ln.edu.hk/en/persons/hang-xiao"
 
 scott:
@@ -27,17 +27,17 @@ wolverine:
 
     
 bizhu:
-    display_name: "张碧竹 Bizhu Zhang"
+    display_name: "板烧鸡腿堡"
     role: grad
     image: /img/people/bizhu.jpg
 
 kedeng:
-    display_name: "吴克登 Kedeng Wu"
+    display_name: "麦辣鸡腿堡"
     role: grad
     image: /img/people/kedeng.jpg
 
 storm:
-    display_name: "虚位以待  We need you!"
+    display_name: "双层鳕鱼堡"
     role: grad
     image: /img/people/need.png
 
@@ -50,36 +50,36 @@ alum-a:
 
 
 chenxi:
-    display_name: "陈曦 [导师] Xi Chen [Advisor] "
+    display_name: "可口可乐 "
     role: collab
 
 
 xiaoyang:
-    display_name: "时笑阳 Xiaoyang Shi"
+    display_name: "百事可乐"
     role: collab
 
 xiangbiao:
-    display_name: "廖湘标 Xiangbiao Liao"
+    display_name: "天府可乐"
     role: collab
     
 liangliang:
-    display_name: "朱亮亮 Liangliang Zhu"
+    display_name: "崂山可乐"
     role: collab
 
 chenyan:
-    display_name: "陈炎 Yan Chen"
+    display_name: "北京可乐"
     role: collab
     
 juzheng:
-    display_name: "宋居正 Juzheng Song"
+    display_name: "零度可乐"
     role: collab
 
 yayun:
-    display_name: "张亚运 Yayun Zhang"
+    display_name: "无糖可乐"
     role: collab
 
 dianxing:
-    display_name: "居佃兴 Dianxing Ju"
+    display_name: "想喝可乐"
     role: collab
     
 
